@@ -6,9 +6,9 @@
 
 ## Achieve Your Full Potential
 
-(Understanding math in video games can make your life as a developer a lot easier and help you create more exciting projects. You need to know how math is used in video games because it is an integral part of any game that allows players to throw projectiles, fire bullets and have enemies with artificial intelligence, and the list goes on. Any way you put it, math is almost always needed while making video games.*
+*Understanding math in video games can make your life as a developer a lot easier and help you create more exciting projects. You need to know how math is used in video games because it is an integral part of any game that allows players to throw projectiles, fire bullets and have enemies with artificial intelligence, and the list goes on. Any way you put it, math is almost always needed while making video games.*
 
-This math for developers course will teach you different ways of how to apply geometry in video games to help you build Unity 3D games. You'll learn about how math is used in video games, how to calculate the player's position, keeping track of the object coordinates, estimate distances between objects and players, determine the respawn times and keep track of the player score.
+*This math for developers course will teach you different ways of how to apply geometry in video games to help you build Unity 3D games. You'll learn about how math is used in video games, how to calculate the player's position, keeping track of the object coordinates, estimate distances between objects and players, determine the respawn times and keep track of the player score.*
 
 ## Start at the Beginning and Learn From an Expert
 
